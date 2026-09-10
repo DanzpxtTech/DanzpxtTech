@@ -77,15 +77,6 @@ I'm currently focused on front-end development, especially JavaScript, HTML, and
       I learn by turning what I study into projects that actually work.
     </td>
 
-    <td width="33%" valign="top">
-      <strong>Break it</strong><br/>
-      Bugs are part of the process. I try to understand why something fails instead of only fixing the symptom.
-    </td>
-
-    <td width="33%" valign="top">
-      <strong>Improve it</strong><br/>
-      After making something work, I come back to improve the code, interface and user experience.
-    </td>
   </tr>
 </table>
 
@@ -124,6 +115,7 @@ I'm currently focused on front-end development, especially JavaScript, HTML, and
 ### Achievements
 
 <p align="center">
+  <p>None yet...</p>
   <!-- We'll add your real GitHub achievements here -->
 </p>
 
