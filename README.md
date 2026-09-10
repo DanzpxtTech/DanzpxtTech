@@ -20,7 +20,7 @@
 I'm currently focused on front-end development, especially JavaScript, HTML, and CSS. Most of my learning comes from building small projects, working with APIs, using the DOM, and improving my understanding of how web applications actually work.
 
 <p align="center">
-  <img src="./assets/banner.jpg" alt="My workspace" width="68%" />
+  <img src="./assets/github-header-banner.png" alt="My workspace" width="68%" />
 </p>
 
 ---
