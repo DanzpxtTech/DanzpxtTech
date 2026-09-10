@@ -8,12 +8,12 @@
   <a href="https://danzpxttech.github.io/My-learning-projects/">
     <img src="https://img.shields.io/badge/Live_demo-WeatherMap-6b8f8a?style=flat-square" alt="WeatherMap live demo" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile%20views&color=6b8f8a&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DanzpxtTech&label=Profile%20views&color=6b8f8a&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/DanzpxtTech">
-    <img src="https://img.shields.io/github/followers/SEU_USUARIO?style=flat-square&color=C9A27A&label=followers" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/DanzpxtTech?style=flat-square&color=C9A27A&label=followers" alt="Followers" />
   </a>
 </p>
 
