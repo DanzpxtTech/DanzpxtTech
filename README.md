@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="SEU_LINK_DO_WEATHERMAP">
+  <a href="https://danzpxttech.github.io/My-learning-projects/">
     <img src="https://img.shields.io/badge/Live_demo-WeatherMap-6b8f8a?style=flat-square" alt="WeatherMap live demo" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile%20views&color=6b8f8a&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
-  <a href="SEU_GITHUB">
+  <a href="https://github.com/DanzpxtTech">
     <img src="https://img.shields.io/github/followers/SEU_USUARIO?style=flat-square&color=C9A27A&label=followers" alt="Followers" />
   </a>
 </p>
@@ -40,10 +40,9 @@ I'm currently focused on front-end development, especially JavaScript, HTML, and
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="SEU_LINK_WEATHERMAP">WeatherMap</a></strong><br/>
+      <strong><a href="https://github.com/DanzpxtTech/My-learning-projects/tree/main/weather-app">WeatherMap</a></strong><br/>
       Weather application built with HTML, CSS and JavaScript using the Open-Meteo API.
       <br/><br/>
-      <a href="SEU_DEPLOY_WEATHERMAP">Open the live demo →</a>
     </td>
 
     <td width="50%" valign="top">
@@ -54,7 +53,7 @@ I'm currently focused on front-end development, especially JavaScript, HTML, and
 
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="SEU_LINK_TODO">To-do List</a></strong><br/>
+      <strong><a href="https://github.com/DanzpxtTech/My-learning-projects/tree/main/To-do-List">To-do List</a></strong><br/>
       Small JavaScript project focused on DOM manipulation, events and storing data locally.
     </td>
 
@@ -71,9 +70,9 @@ I'm currently focused on front-end development, especially JavaScript, HTML, and
 
 | Project | What it is |
 | --- | --- |
-| [Login Page](SEU_LINK_LOGIN) | Front-end login interface built with HTML, CSS and JavaScript |
-| [ApiOpenWheater](SEU_LINK_API_WEATHER) | Practice project working with a weather API and JavaScript |
-| [My-learning-projects](SEU_LINK_MY_LEARNING) | Collection of projects built while learning web development |
+| [Login Page](https://danzpxttech.github.io/login-page/) | Front-end login interface built with HTML, CSS and JavaScript |
+| [Portfolio](https://danzpxttech.github.io/Portfolio/) | Personal Portfolio |
+| [My-learning-projects](https://github.com/DanzpxtTech/My-learning-projects) | Collection of projects built while learning web development |
 
 ---
 
