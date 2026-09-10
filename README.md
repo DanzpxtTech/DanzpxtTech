@@ -45,10 +45,6 @@ I'm currently focused on front-end development, especially JavaScript, HTML, and
       <br/><br/>
     </td>
 
-    <td width="50%" valign="top">
-      <strong><a href="SEU_LINK_TASKMANAGER">TaskManager</a></strong><br/>
-      Task management project using JavaScript and localStorage to save tasks in the browser.
-    </td>
   </tr>
 
   <tr>
@@ -57,10 +53,6 @@ I'm currently focused on front-end development, especially JavaScript, HTML, and
       Small JavaScript project focused on DOM manipulation, events and storing data locally.
     </td>
 
-    <td width="50%" valign="top">
-      <strong><a href="SEU_LINK_PORTFOLIO">Portfolio</a></strong><br/>
-      Personal portfolio project built while practicing HTML, CSS and JavaScript.
-    </td>
   </tr>
 </table>
 
